@@ -1,6 +1,7 @@
-#Tugas_4
+# Tugas4
 
-1.a Alghorithm and Pseudocode Bubble sort begin BubbleSort(list)
+
+	1.a Alghorithm and Pseudocode Bubble sort begin BubbleSort(list)
 for all elements of list if list[i] > list[i+1] swap(list[i], list[i+1]) end if end for
 return list
 end BubbleSort
@@ -86,4 +87,5 @@ if(hashArray[hashIndex]->key == key) { struct DataItem* temp = hashArray[hashInd
 //assign a dummy item at deleted position hashArray[hashIndex] = dummyItem; return temp; }
 //go to next cell ++hashIndex;
 //wrap around the table hashIndex %= SIZE; }
-return NULL; }# Tugas4
+return NULL; }
+
