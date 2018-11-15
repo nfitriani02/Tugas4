@@ -1,10 +1,13 @@
 # Tugas4
 
+1.a Alghorithm and Pseudocode Bubble sort begin BubbleSort(list)
 
-	1.a Alghorithm and Pseudocode Bubble sort begin BubbleSort(list)
 for all elements of list if list[i] > list[i+1] swap(list[i], list[i+1]) end if end for
+
 return list
+
 end BubbleSort
+
 procedure bubbleSort( list : array of items )
 loop = list.count;
 for i = 0 to loop-1 do: swapped = false
